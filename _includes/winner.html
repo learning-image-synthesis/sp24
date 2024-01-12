@@ -1,0 +1,25 @@
+<p>
+    {% if include.asg.winner %}
+        <b>Winner:</b>
+        {% for st in include.asg.winner %}
+        [<a href="
+            {% if st.link contains '://' %}
+              {{ st.link }}
+            {% else %}
+              {{ st.link | prepend: site.baseurl }}
+            {% endif %}">{{ st.name }}</a>]
+        {% endfor %}
+    {% endif %}
+
+    {% if include.asg.runnerup %}<br>
+        <b>Honorable Mentions:</b>
+        {% for st in include.asg.runnerup %}
+        [<a href="
+            {% if st.link contains '://' %}
+              {{ st.link }}
+            {% else %}
+              {{ st.link | prepend: site.baseurl }}
+            {% endif %}">{{ st.name }}</a>]
+        {% endfor %}
+    {% endif %}
+</p>

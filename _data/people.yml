@@ -1,0 +1,16 @@
+instructors:
+  - name: Jun-Yan Zhu
+    profile_pic: /_images/pp/junyan.jpg
+    webpage: https://www.cs.cmu.edu/~junyanz/
+    email: junyanz at cs.cmu.edu
+
+teaching_assistants:
+  - name: Nikos Gkanatsios
+    profile_pic: /_images/pp/nikos.jpg
+    webpage: https://nickgkan.github.io
+    email: ngkanats at andrew.cmu.edu
+
+  - name: Emily Kim
+    profile_pic: /_images/pp/emily.png
+    webpage: https://www.linkedin.com/in/kimemily12/
+    email: ekim2 at andrew.cmu.edu

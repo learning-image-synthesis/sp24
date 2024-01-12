@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{{ content }}
+<ul id="archive" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+    {% for asg in site.assignments %}
+    {% if true != asg.hidden %}
+    <li class="archiveposturl" style="background: transparent">
+        <div class="lecture-container">
+            {% if asg.thumbnail %}
+            <div class="thumbnail">
+                <div class="center-cropped"
+                     style="margin-top:5px;margin-bottom:5px;background-image: url('{{ asg.thumbnail | prepend: site.baseurl }}');">
+                    <img src="{{ asg.thumbnail | prepend: site.baseurl }}"/>
+                </div>
+            </div>
+            {% endif %}
+            <div>
+            <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
+
+            <span><strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
+                <a title="Download problems (pdf)" href="{{ asg.pdf | prepend: site.baseurl }}"><i
+                        class="fas fa-file-pdf"></i></a>
+                {% if asg.attachment %}
+                &nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | prepend: site.baseurl }}"><i
+                    class="fas fa-file-archive"></i></a>
+                {% endif %}
+            </strong></span>
+                {% include winner.html asg=asg %}
+            </div>
+
+        </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>

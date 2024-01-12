@@ -1,0 +1,57 @@
+# Site settings
+course_name: 16-726 Learning-Based Image Synthesis
+course_description: "This course introduces machine learning methods for image and video synthesis. The objectives of synthesis research vary from modeling statistical distributions of visual data, through realistic picture-perfect recreations of the world in graphics, and all the way to providing interactive tools for artistic expression. Key machine learning algorithms will be presented, ranging from classical learning methods (e.g., nearest neighbor, PCA, Markov Random Fields) to deep learning models (e.g., ConvNets, deep generative models, such as GANs, VAEs and Diffusion models). We will also introduce image and video forensics methods for detecting synthetic content. In this class, students will learn to build practical applications and create new visual effects using their own photos and videos."
+prereq_know: "This course requires familiarity with basic concepts of computer vision/graphics/image processing
+              (16385 or 15462 or 15463 or 16720 or 18793). Some knowledge of machine learning (10301 or
+              10315 or 10601 or 10606 or 10607 or 10701) will also be helpful."
+course_semester: "Spring 2024"
+course_time: "Time: Mondays, Wednesdays 9:30 am - 10:50 am ET"
+course_location: "Location: NSH 1305"
+
+baseurl: "/sp24" # the subpath of your site, e.g. /blog/
+url: "http://learning-image-synthesis.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Carnegie Mellon University"
+schoolurl: "https://cmu.edu"
+
+address: |
+    Carnegie Mellon University
+    5000 Forbes Ave
+    Pittsburgh, PA 15213, USA
+
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
