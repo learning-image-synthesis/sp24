@@ -1,11 +1,11 @@
 ---
 type: assignment
 date: 2023-01-23T4:00:00-5:00
-title: 'Assignment #0 - How to submit assignments?'
+# title: 'Assignment #0 - How to submit assignments?'
 # thumbnail: /static_files/assignments/hw0/thumbnail.png
 due_event:
     type: due
-    date: TBD #2023-01-30T23:59:00-5:00
+    date: 2023-01-30T23:59:00-5:00
     description: 'Assignment #0 due'
 hide_from_announcments: true
 ---
