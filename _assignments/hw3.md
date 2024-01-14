@@ -9,12 +9,12 @@ due_event:
     date: 2023-03-20T23:59:00-5:00
     description: 'Assignment #3 due'
 mathjax: true
-runnerup:
-    - name: George Ralph
-      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/gdr/proj3/
-winner:
-    - name: Adithya Praveen
-      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/apraveen/proj3/
+# runnerup:
+#     - name: George Ralph
+#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/gdr/proj3/
+# winner:
+#     - name: Adithya Praveen
+#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/apraveen/proj3/
 hide_from_announcments: true
 ---
 

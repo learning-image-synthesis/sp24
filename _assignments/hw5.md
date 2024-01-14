@@ -8,12 +8,12 @@ due_event:
     type: due
     date: 2023-04-19T23:59:00-5:00
     description: 'Assignment #5 due'
-runnerup:
-    - name: Shen Zheng
-      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shenzhen/proj5/
-winner:
-    - name: Shihao Shen
-      link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shihaosh/proj5/
+# runnerup:
+#     - name: Shen Zheng
+#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shenzhen/proj5/
+# winner:
+#     - name: Shihao Shen
+#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shihaosh/proj5/
 
 mathjax: true
 hide_from_announcments: true
