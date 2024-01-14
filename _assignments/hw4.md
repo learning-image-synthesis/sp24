@@ -1,9 +1,9 @@
 ---
 type: assignment
 date: 2023-03-22T4:00:00-5:00
-title: 'Assignment #4 - Neural Style Transfer'
-thumbnail: /static_files/assignments/hw4/teaser.png
-attachment: /static_files/assignments/hw4/hw4_starter.tar.gz
+# title: 'Assignment #4 - Neural Style Transfer'
+# thumbnail: /static_files/assignments/hw4/teaser.png
+# attachment: /static_files/assignments/hw4/hw4_starter.tar.gz
 due_event:
     type: due
     date: 2023-04-03T23:59:00-5:00

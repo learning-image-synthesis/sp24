@@ -1,9 +1,9 @@
 ---
 type: assignment
 date: 2023-03-1T4:00:00-5:00
-title: 'Assignment #3 - When Cats meet GANs'
-thumbnail: /static_files/assignments/hw3/teaser.png
-attachment: /static_files/assignments/hw3/16726_s23_hw3.zip
+# title: 'Assignment #3 - When Cats meet GANs'
+# thumbnail: /static_files/assignments/hw3/teaser.png
+# attachment: /static_files/assignments/hw3/16726_s23_hw3.zip
 due_event:
     type: due
     date: 2023-03-20T23:59:00-5:00

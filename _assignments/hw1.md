@@ -1,9 +1,9 @@
 ---
 type: assignment
 date: 2023-01-30T4:00:00-5:00
-title: 'Assignment #1 - Colorizing the Prokudin-Gorskii Photo Collection'
-thumbnail: /static_files/assignments/hw1/teaser.jpg
-attachment: /static_files/assignments/hw1/16726_s23_hw1-main.zip
+# title: 'Assignment #1 - Colorizing the Prokudin-Gorskii Photo Collection'
+# thumbnail: /static_files/assignments/hw1/teaser.jpg
+# attachment: /static_files/assignments/hw1/16726_s23_hw1-main.zip
 due_event:
     type: due
     date: 2023-02-15T23:59:00-5:00

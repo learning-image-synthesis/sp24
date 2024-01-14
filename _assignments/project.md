@@ -1,8 +1,8 @@
 ---
 type: assignment
 date: 2023-04-30T4:00:00-5:00
-title: 'Final Project'
-thumbnail: /static_files/assignments/project/teaser.png
+# title: 'Final Project'
+# thumbnail: /static_files/assignments/project/teaser.png
 due_event:
     type: due
     date: 2023-05-08T23:59:00-5:00

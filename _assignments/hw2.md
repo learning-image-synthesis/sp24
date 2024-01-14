@@ -1,9 +1,9 @@
 ---
 type: assignment
 date: 2023-02-15T4:00:00-5:00
-title: 'Assignment #2 - Gradient Domain Fusion'
-thumbnail: /static_files/assignments/hw2/penguins_with_shadow2.jpg
-attachment: /static_files/assignments/hw2/16726_s23_hw2.zip
+# title: 'Assignment #2 - Gradient Domain Fusion'
+# thumbnail: /static_files/assignments/hw2/penguins_with_shadow2.jpg
+# attachment: /static_files/assignments/hw2/16726_s23_hw2.zip
 due_event:
     type: due
     date: 2023-03-01T23:59:00-5:00
