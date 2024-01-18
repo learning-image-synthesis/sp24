@@ -6,7 +6,7 @@ prereq_know: "This course requires familiarity with basic concepts of computer v
               10315 or 10601 or 10606 or 10607 or 10701) will also be helpful."
 course_semester: "Spring 2024"
 course_time: "Time: Mondays, Wednesdays 9:30 am - 10:50 am ET"
-course_location: "Location: NSH 1305"
+course_location: "Location: NSH 3002"
 
 baseurl: "/sp24" # the subpath of your site, e.g. /blog/
 url: "http://learning-image-synthesis.github.io/" # the base hostname & protocol for your site
