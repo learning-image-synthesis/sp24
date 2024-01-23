@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-01-23T16:00:00-05:00
+date: 2024-01-22T16:00:00-05:00
 title: "Pointwise Processing and Image Filtering "
 tldr: "Transformations on images which can be done on raw pixel values as well as image filtering techniques"
 thumbnail: "/static_files/lectures/02.png"
