@@ -7,7 +7,7 @@ thumbnail: "/static_files/lectures/02.png"
 links:
     - url: "/static_files/lectures/lecture2_point_processing_image_filtering.pdf"
       name: pdf
-    - url: "https://canvas.cmu.edu/files/10698672/download?download_frd=1"
+    - url: "https://canvas.cmu.edu/files/9140004/download?download_frd=1"
       name: pptx
 
 hide_from_announcments: true

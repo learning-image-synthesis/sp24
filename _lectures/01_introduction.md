@@ -7,7 +7,7 @@ tldr: "Introduction to the course, how images are created and manipulated by hum
 links:
     - url: "/static_files/lectures/lecture1_introduction.pdf"
       name: pdf
-    - url: "https://canvas.cmu.edu/files/10683902/download?download_frd=1"
+    - url: "https://canvas.cmu.edu/files/9110580/download?download_frd=1"
       name: pptx
 hide_from_announcments: true
 ---
