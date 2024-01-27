@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2023-01-25T16:00:00-05:00
+date: 2024-01-24T16:00:00-05:00
 title: "Global and Local Image Warping"
 tldr: "Applying global and local geometric transformations to an image"
 thumbnail: "/static_files/lectures/0208.png"
