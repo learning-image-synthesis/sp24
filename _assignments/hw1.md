@@ -67,7 +67,7 @@ scipy.signal.convolve2d
 You're allowed to use *any* functions for **Bells & Whistles**.
 
 ## Submission
-Please submit both your code (to Canvas) and a project webpage (to AFS). A general guideline could be found in [Assignment #0](/sp23/assignments/hw0).
+Please submit both your code (to Canvas) and a project webpage (to AFS). **Do not** submit your code to AFS. A general guideline could be found in [Assignment #0](/sp23/assignments/hw0).
 
 **You do not need to include images in the code submission.** You only need to include images in your webpage.
 
