@@ -12,8 +12,8 @@ hide_from_announcments: true
 
 ## How to submit assignments? (in general) 
 For each assignment, you will be required to submit two packages unless specified otherwise:  your __code__ and your __webpage__:
-### Submit code to Canvas
-For every assignment you should create a `main.py` that can be used to run all your code for the assignment, and a `README.md` file that contains all required documentation. Place all source code used to generate your results, as well as any documentation required to use the code, in a folder named `andrewid_code_projX` where X is the hw number. Zip the whole folder and submit the zip to Canvas. Here is an example of your folder structure:
+### Submit code to Gradescope
+For every assignment you should create a `main.py` that can be used to run all your code for the assignment, and a `README.md` file that contains all required documentation. Place all source code used to generate your results, as well as any documentation required to use the code, in a folder named `andrewid_code_projX` where X is the hw number. Zip the whole folder and submit the zip to Gradescope. Here is an example of your folder structure:
 ```angular2html
 zhiqiul_code_proj1/
     main.py

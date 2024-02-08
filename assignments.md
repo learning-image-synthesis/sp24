@@ -12,7 +12,7 @@ Your final grade will be made up of:
 
 **Homework assignments & Lateday policy**: students will be allowed a total of five late days per semester;
 each additional late day will incur a 10% penalty. For each assignment, students need to build a website describing the results
-and submit the source code to Canvas. The code should be easy to run by Tas.
+and submit the source code to Gradescope. The code should be easy to run by Tas.
 
 **Final project (2-3 people per group)**:, students are required to build a website describing the results and
 algorithm of the final project. A final project presentation is also needed.
