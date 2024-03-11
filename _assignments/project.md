@@ -5,7 +5,7 @@ title: 'Final Project'
 thumbnail: /static_files/assignments/project/teaser.png
 due_event:
     type: due
-    date: 2023-05-01T23:59:00-5:00
+    date: 2024-05-01T23:59:00-5:00
     description: 'Final Project Proposal Due'
 mathjax: true
 project: true
