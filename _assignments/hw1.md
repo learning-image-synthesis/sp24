@@ -9,14 +9,16 @@ due_event:
     date: 2024-02-14T23:59:00-5:00
     description: 'Assignment #1 due'
 
-# runnerup:
-    # - name: Shruti Nair
-      # link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shrutina/proj1/
-    # - name: Abhishek Pavani
-      # link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/apavani2/proj1/
-# winner: 
-    # - name: Adithya Praveen
-      # link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/apraveen/proj1/
+runnerup:
+    - name: Seah Shao Xuan
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/sseah/proj1/
+    - name: Junkai Huang
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/junkaih/proj1/
+    - name: Zoë LaLena
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/zlalena/proj1/
+winner: 
+    - name: Chiyuan Fu
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/chiyuanf/proj1/
 hide_from_announcments: true
 ---
 
