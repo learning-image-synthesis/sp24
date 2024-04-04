@@ -9,12 +9,16 @@ due_event:
     date: 2024-02-29T23:59:00-5:00
     description: 'Assignment #2 due'
 mathjax: true
-# runnerup:
-#     - name: Nasrin Kalanat
-#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/nkalanat/proj2/
-# winner: 
-#     - name: Shruti Nair
-#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shrutina/proj2/
+winner: 
+    - name: Max Grebinskiy
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mgrebins/proj2/
+    - name: Zoë LaLena
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/zlalena/proj2/
+runnerup:
+    - name: Chiyuan Fu
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/chiyuanf/proj2/index.html
+    - name: Yu-Chen Lin
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/ylin7/proj2/
 hide_from_announcments: true
 ---
 
