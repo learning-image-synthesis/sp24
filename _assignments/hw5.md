@@ -1,12 +1,12 @@
 ---
 type: assignment
-date: 2023-04-03T4:00:00-5:00
+date: 2024-04-03T4:00:00-5:00
 title: 'Assignment #5 - Cats Photo Editing'
 thumbnail: /static_files/assignments/hw5/thumb.gif
 attachment: /static_files/assignments/hw5/hw5_starter.zip
 due_event:
     type: due
-    date: 2023-04-19T23:59:00-5:00
+    date: 2024-04-17T23:59:00-5:00
     description: 'Assignment #5 due'
 # runnerup:
 #     - name: Shen Zheng
