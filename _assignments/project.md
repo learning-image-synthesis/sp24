@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-03-11T4:00:00-5:00
+date: 2024-04-11T4:00:00-5:00
 title: 'Final Project'
 thumbnail: /static_files/assignments/project/teaser.png
 due_event:
