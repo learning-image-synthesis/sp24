@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-04-15W8:00:00+1:20
-title: "Video Synthesis and Editing (student presentation)"
+date: 2024-04-08W8:00:00+1:20
+title: "3D Content Creation (student presentation)"
 tldr: "Presentations on exciting work in the 3D and video space!"
 hide_from_announcments: true
 ---
