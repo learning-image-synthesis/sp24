@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-08W8:00:00+1:20
+date: 2024-04-08T16:00:00-05:00
 title: "3D Content Creation (student presentation)"
 tldr: "Presentations on exciting work in 3D content creation!"
 hide_from_announcments: true
