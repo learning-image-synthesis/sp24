@@ -9,12 +9,14 @@ due_event:
     date: 2024-04-03T23:59:00-5:00
     description: 'Assignment #4 due'
 mathjax: true
-# runnerup:
-#     - name: Shihao Shen
-#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/shihaosh/proj4/
-# winner:
-#     - name: Akhil Eppa
-#       link: https://www.andrew.cmu.edu/course/16-726-sp23/projects/aeppa/proj4/
+runnerup:
+    - name: Michael Mu
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mmu2/proj4/index.html
+winner:
+    - name: Jing Gao
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/jinggao2/proj4/index.html
+    - name: Ming Chong Lim
+      link: https://www.andrew.cmu.edu/course/16-726-sp24/projects/mingchol/proj4/index.html
 
 hide_from_announcments: true
 ---
