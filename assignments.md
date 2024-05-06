@@ -6,9 +6,10 @@ permalink: /assignments/
 
 ## Evaluation
 Your final grade will be made up of:
-- Five homework assignments (65%).
+- Five homework assignments (60%).
+- Attendance (5%).
 - Final project (25%).
-- Course presentation (10%).
+- Paper presentation (10%).
 
 **Homework assignments & Lateday policy**: students will be allowed a total of five late days per semester;
 each additional late day will incur a 10% penalty. For each assignment, students need to build a website describing the results
